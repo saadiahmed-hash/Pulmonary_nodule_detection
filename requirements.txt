@@ -5,7 +5,6 @@ numpy
 Pillow
 pandas
 matplotlib  
-#
 
 #steps : push one after one 
 #opencv-python-headless==4.8.1.78
