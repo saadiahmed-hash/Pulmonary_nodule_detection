@@ -4,7 +4,4 @@ numpy
 Pillow
 pandas
 matplotlib  
-
-# the magic lines:
-opencv-python-headless==4.8.0.74
-opencv-python --no-binary opencv-python
+opencv-python-headless
